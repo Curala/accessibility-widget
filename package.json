@@ -1,6 +1,6 @@
 {
     "name": "accessibility-widget",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "description": "Accessibility Website Widget - Fork of Sienna Accessibility Widget by bennyluk",
     "main": "dist/accessibility-widget.cjs.js",
     "module": "dist/accessibility-widget.esm.js",
@@ -12,9 +12,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/raiffeisen-regenerative/accessibility-widget.git"
+        "url": "git+https://github.com/Curala/accessibility-widget.git"
     },
-    "modifiedByCompany": "Raiffeisen Regenerative GmbH",
+    "modifiedByCompany": "Gratwerk GmbH",
     "modifiedByAuthor": "Leopold Stenger",
     "author": "Benny Luk",
     "license": "MIT",
